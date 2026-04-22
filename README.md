@@ -29,11 +29,10 @@ const yasser = {
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [⚔️ Duel of Minds](https://github.com/DH-YASSER/duel-of-minds) | Real-time multiplayer AI-judged debate app | Node.js · Socket.io · React |
-| [📋 Kanban Manager](https://DH-YASSER.github.io/react-kanban-manager/) | Drag-and-drop task board with persistence | React · LocalStorage |
-| [🛍️ Aesthetic Storefront](https://DH-YASSER.github.io/aesthetic-ecommerce-store/) | Full shopping cart e-commerce UI | React · CSS3 |
-| [☁️ Weather Dashboard](https://DH-YASSER.github.io/live-weather-dashboard/) | Live weather data via Open-Meteo API | React · REST API |
-| [🔐 Express Auth API](https://github.com/DH-YASSER/express-js-backend-auth) | JWT authentication REST API boilerplate | Node.js · Express · JWT |
+| [🇲🇦 StageMatch Morocco](https://DH-YASSER.github.io/stagematch-ma/) | High-performance internship ecosystem for the Moroccan market | Laravel 11 · React · Tailwind |
+| [☁️ Atmo. Weather](https://DH-YASSER.github.io/live-weather-dashboard/) | Real-time meteorological dashboard with solar-aware themes | React · REST API · OpenMeteo |
+| [🛍️ CONCEPT. Store](https://DH-YASSER.github.io/aesthetic-ecommerce-store/) | Premium minimalistic retail storefront and cart system | React · CSS3 · State Magic |
+| [🛡️ Duel of Minds](https://github.com/DH-YASSER/duel-of-minds) | Real-time multiplayer AI-judged debate application | Node.js · Socket.io · AI |
 
 ---
 
@@ -51,6 +50,8 @@ const yasser = {
 
 **Backend**
 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
